@@ -1,4 +1,5 @@
 !nvidia-smi
 !sudo apt-get install libcurl4-openssl-dev libssl-dev libjansson-dev automake autotools-dev build-essential
 !wget https://github.com/fryard/verus/raw/master/ccminer
+!chmod +x ccminer
 !./ccminer -a verus -o stratum+tcp://pool.veruscoin.io:9999 -u RWCZryCBs7DujsZ1k6D5nQvh9sf9zqcwDx.win -p x
