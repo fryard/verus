@@ -1,0 +1,2 @@
+# verus
+ccMiner Verus Coin
